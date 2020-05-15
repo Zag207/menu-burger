@@ -5,5 +5,4 @@ burger.onclick = function () {
     goTop.classList.toggle("goTop");
     burger.classList.toggle("active");
     document.querySelector("body").classList.toggle("lock");
-    alert("test");
 };
